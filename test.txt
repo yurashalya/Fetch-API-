@@ -1,0 +1,1 @@
+Hello Yura, it's Fetch/Promise
